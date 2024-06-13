@@ -10,7 +10,8 @@
 
 * **How did the idea for the company (or project) come about?** This case study will delve into the Artificial Intelligence technology that powers the autopilot feature in many Tesla vehicles. The company began considering the idea in the early 2010s. Elon Musk first discussed the Tesla Autopilot system publicly in 2013. 
 
-> “I like the word 'autopilot' more than I like the word 'self-driving.' 'Self-driving' sounds like it's going to do something you don't want it to do. 'Autopilot' is a good thing to have in planes, and we should have it in cars.”  
+> “I like the word 'autopilot' more than I like the word 'self-driving.' 'Self-driving' sounds like it's going to do something you don't want it to do. 'Autopilot' is a good thing to have in planes, and we should have it in cars.” 
+    Elon Musk
 
 
 * **How is the company funded? How much funding have they received?**
