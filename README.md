@@ -168,6 +168,26 @@ Overall, Tesla's proactive approach and continuous innovation in these key areas
 
 ## Major Companies in the Autonomous Driving
 
+### Mercedes-Benz Intelligent Drive
+
+Mercedes-Benz is at the forefront of autonomous driving technology with its Mercedes-Benz Intelligent Drive initiative. This includes:
+
+#### Key Features
+
+- **Autonomous Driving Capabilities:** Integrates ADAS for semi-autonomous functions like adaptive cruise control, lane-keeping assistance, and automatic braking.
+- **Automated Parking:** Utilizes sensors and cameras for autonomous parking, easing tight-space maneuvers.
+- **Traffic Jam Assist:** Maintains safe distances and lane adherence in stop-and-go traffic, reducing driver fatigue.
+- **Remote Parking Pilot:** Allows smartphone-controlled remote parking in narrow spaces.
+- **Highway Pilot:** Under development for hands-free driving on highways, enhancing safety and convenience.
+
+### Development and Future Prospects
+
+Mercedes-Benz continues to invest in AI and sensor technologies to enhance vehicle autonomy. Future plans include expanding autonomous capabilities beyond highways to urban environments, focusing on safety and regulatory compliance.
+
+### Safety and Regulatory Focus
+
+Rigorous testing ensures adherence to global safety standards. Mercedes-Benz aims to deliver safer, more efficient driving experiences while shaping the future of mobility worldwide.
+
 ### Artificial Intelligence and Autonomous Driving
 
 - **Waymo (Alphabet Inc.):**
