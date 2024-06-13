@@ -281,6 +281,8 @@ Tesla outperforms competitors in the autonomous driving and EV markets, leading 
 **Product or Service Suggestion:**
 Tesla should expand its product line to include a range of autonomous delivery vehicles tailored for both long-haul and urban delivery. This fleet could encompass:
 
+![Semi](https://img.equipmentworld.com/files/base/randallreilly/all/image/2017/11/eqw.Tesla-electric-Semi-on-road.png?auto=format%2Ccompress&dpr=2&fit=max&q=70&w=700)
+
 - **Urban Delivery Vans:** Smaller, electric, and autonomous vans designed for last-mile delivery in cities.
 - **Autonomous Delivery Robots:** Compact, sidewalk-traversing robots for small package delivery.
 
