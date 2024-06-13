@@ -166,27 +166,7 @@ Tesla has been at the forefront of many of these trends and innovations:
 
 Overall, Tesla's proactive approach and continuous innovation in these key areas have solidified its leadership in the autonomous driving and EV sectors.
 
-## Major Companies in the Autonomous Driving and Electric Vehicle (EV) Field
-
-### Automotive Industry (Electric Vehicles)
-
-- **General Motors (GM):**
-  - **Chevrolet Bolt EV:** GM is expanding its electric vehicle lineup with plans to launch 30 new electric models globally by 2025 ([Tom's Hardware](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)).
-  
-- **Ford Motor Company:**
-  - **Mustang Mach-E and F-150 Lightning:** Ford is increasing its EV offerings with popular models like the Mustang Mach-E and F-150 Lightning ([Electrek](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase)).
-  
-- **Nissan:**
-  - **Nissan Leaf:** Pioneering the mass-market electric car with the Nissan Leaf ([Tom's Hardware](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)).
-  
-- **Volkswagen Group:**
-  - **ID. Series:** Heavily investing in its ID. series to lead in the EV market ([Electrek](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase)).
-  
-- **BMW:**
-  - **i Series:** Committed to electric and hybrid vehicles with models like the i3 and i8 ([Electrek](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase)).
-  
-- **Rivian:**
-  - **R1T and R1S:** Focuses on electric adventure vehicles, including the R1T pickup and R1S SUV ([Electrek](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase)).
+## Major Companies in the Autonomous Driving
 
 ### Artificial Intelligence and Autonomous Driving
 
@@ -239,11 +219,12 @@ These companies are part of a global effort to advance autonomous driving and el
 * [Tesla - Founders](https://www.tesla.com/blog/judge-strikes-claim-who-can-be-declared-founder-tesla-motors)
 * [Tesla](https://www.tesla.com/support/autopilot)
 * [Musk Quote](https://www.brainyquote.com/quotes/elon_musk_567214#:~:text=Elon%20Musk%20Quotes&text='%20'Self%2Ddriving'%20sounds,should%20have%20it%20in%20cars)
-* [China's Self Driving Cars](https://pioneersperspective.com/startups/chinas-best-self-driving-car-platforms-tested-and-compared/)
-* [NVIDIA Computing](https://www.autofutures.tv/topics/why-nvidia-computing-is-the--top--choice-for-chinese-automakers-nio--im--xpeng---li-auto/s/c14e0119-b921-4842-a184-32c44ebc6990)
+* [Pioneer's Perspective](https://pioneersperspective.com/startups/chinas-best-self-driving-car-platforms-tested-and-compared/)
+* [AutoFutures TV](https://www.autofutures.tv/topics/why-nvidia-computing-is-the--top--choice-for-chinese-automakers-nio--im--xpeng---li-auto/s/c14e0119-b921-4842-a184-32c44ebc6990)
 * [Tesla Growth Plan](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase/)
 * [POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/)
 * [AI Cluster](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)
 * [That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
 * [Top-Selling Car](https://www.businessinsider.com/tesla-worlds-top-selling-car-first-time-q1-2023-5)
 * [Tesla Vision](https://electrek.co/2021/06/29/tesla-update-vehicle-vision-system-restore-autopilot-features)
+* [Wired](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)
