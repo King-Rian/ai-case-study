@@ -2,7 +2,7 @@
 The project is about Tesla.
 This is the README File.
 
-![Tesla](https://www.google.com/search?q=cybertruck+professional+photos&sca_esv=3e24a8afe08e43d7&rlz=1C5CHFA_enUS967US973&udm=2&biw=1408&bih=786&sxsrf=ADLYWIIeI96x2CMxeCPh3RzrGvOQ9MENJA%3A1718293074076&ei=UhJrZq-pBMySwbkPsrSnqAQ&ved=0ahUKEwivmrPC9NiGAxVMSTABHTLaCUUQ4dUDCBA&uact=5&oq=cybertruck+professional+photos&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmN5YmVydHJ1Y2sgcHJvZmVzc2lvbmFsIHBob3Rvc0j9PFC7CVjwO3ADeACQAQCYAcQCoAHlEKoBCDIwLjEuMC4xuAEDyAEA-AEBmAIHoAL9BcICBBAjGCfCAhAQABiABBixAxhDGIMBGIoFwgILEAAYgAQYsQMYgwHCAgUQABiABMICCBAAGIAEGLEDwgIEEAAYA8ICChAAGIAEGEMYigXCAgYQABgFGB7CAgYQABgIGB7CAgcQABiABBgYwgIJEAAYgAQYGBgKmAMAiAYBkgcFNi4zLTGgB_ki&sclient=gws-wiz-serp#vhid=PpaYpeILPOJ52M&vssid=mosaic)
+![Tesla](https://images.app.goo.gl/qYF2SHts5E8oMJMU9)
 # TITLE
 
 ## Overview and Origin
