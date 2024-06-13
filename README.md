@@ -1,9 +1,4 @@
 # Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
-The project is about Tesla.
-This is the README File.
-
-
-# Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
 
 ## Overview and Origin
 
