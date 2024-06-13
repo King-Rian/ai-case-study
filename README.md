@@ -1,3 +1,4 @@
+![Tesla](https://hd.wallpaperswide.com/thumbs/tesla_logo-t2.jpg)
 # Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
 
 ## Overview and Origin
