@@ -51,7 +51,7 @@
 <details open>
 <summary>Sources</summary>
 <br>
-[Elon Musk - Tesla.com](https://www.tesla.com/elon-musk)
+- [Elon Musk - Tesla.com](https://www.tesla.com/elon-musk)
 - [Strategic Management and Business Policy - PDF](https://study-notes-pdfs.s3.us-west-2.amazonaws.com/21669939.pdf)
 - [Tesla Autopilot Capabilities](https://www.tesla.com/support/autopilot)
 - [Tesla Autopilot Timeline](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
