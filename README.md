@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company
+* Name of company: Tesla, Inc., previously Tesla Motors, Inc.
 
 * When was the company incorporated?
 
@@ -48,22 +48,15 @@
 
 * Why are these technologies appropriate for your solution?
 
-<details open>
-<summary>Sources</summary>
-<br>
-[Elon Musk - Tesla.com](https://www.tesla.com/elon-musk)
-
-[Strategic Management and Business Policy - PDF](https://study-notes-pdfs.s3.us-west-2.amazonaws.com/21669939.pdf)
-
-[Tesla Autopilot Capabilities](https://www.tesla.com/support/autopilot)
-
-[Tesla Autopilot Timeline](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
-
-[Elon Musk Quote](https://www.brainyquote.com/quotes/elon_musk_567214#:~:text=Elon%20Musk%20Quotes&text='%20'Self%2Ddriving'%20sounds,should%20have%20it%20in%20cars.)
-
-[Inventor of Self-driving Car](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/)
-
-[Tesla's $300 Million AI Cluster](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)
-
-[Tesla's $10 Billion Growth Phase](https://electrek.co/2024/01/29/tesla-tsla-p
-</details>
+### Sources
+* [Tesla - Elon Musk](https://www.tesla.com/elon-musk)
+* [Tesla Incorporation](https://study-notes-pdfs.s3.us-west-2.amazonaws.com/21669939.pdf)
+* [Tesla - Founders](https://www.tesla.com/blog/judge-strikes-claim-who-can-be-declared-founder-tesla-motors)
+* [Tesla - Autopilot](https://www.tesla.com/support/autopilot)
+* [Tesla Autopilot Timeline](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
+* [Musk Quote](https://www.brainyquote.com/quotes/elon_musk_567214#:~:text=Elon%20Musk%20Quotes&text='%20'Self%2Ddriving'%20sounds,should%20have%20it%20in%20cars)
+* [China's Self Driving Cars](https://pioneersperspective.com/startups/chinas-best-self-driving-car-platforms-tested-and-compared/)
+* [NVIDIA Computing](https://www.autofutures.tv/topics/why-nvidia-computing-is-the--top--choice-for-chinese-automakers-nio--im--xpeng---li-auto/s/c14e0119-b921-4842-a184-32c44ebc6990)
+* [Tesla Growth Plan](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase/)
+* [Inventor of Self-Driving Cars](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/)
+* [AI Cluster](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)
