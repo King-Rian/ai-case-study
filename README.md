@@ -14,18 +14,18 @@
 
 
 * **How is the company funded? How much funding have they received?**
-  * Early Financing: Founded with initial funding exceeding $30 million from Elon Musk, co-founder of PayPal and SpaceX.
-  * Initial Public Offering: Tesla went public in June 2010 with an IPO priced at $17 per share, raising approximately $226.1 million.
+  * **Early Financing:** Founded with initial funding exceeding $30 million from Elon Musk, co-founder of PayPal and SpaceX.
+  * **Initial Public Offering:** Tesla went public in June 2010 with an IPO priced at $17 per share, raising approximately $226.1 million.
 
-  * Strategic Investments: Toyota invested $50 million in Tesla, fostering collaboration on electric vehicle development and production systems.
+  * **Strategic Investments:** Toyota invested $50 million in Tesla, fostering collaboration on electric vehicle development and production systems.
 
-  * Venture Capital: Initial funding was sourced from venture capital firms, including Valor Equity Partners, in 2004.
+  * **Venture Capital:** Initial funding was sourced from venture capital firms, including Valor Equity Partners, in 2004.
 
-  * Government Subsidies: Since 2009, Tesla has received $2.8 billion in government subsidies, notably including $1.6 billion from Nevada for tax rebates and grants from 2013 to 2023.
+  * **Government Subsidies:** Since 2009, Tesla has received $2.8 billion in government subsidies, notably including $1.6 billion from Nevada for tax rebates and grants from 2013 to 2023.
 
-  * Loans: In 2009, Tesla secured a $465 million loan from the US Department of Energy to support Model S sedan development and commercial powertrain technology, repaid by 2013 with $12 million in interest.
+  * **Loans:** In 2009, Tesla secured a $465 million loan from the US Department of Energy to support Model S sedan development and commercial powertrain technology, repaid by 2013 with $12 million in interest.
 
-  * Bonds and Notes: In 2017, Tesla issued a $1.8 billion bond with a 5.3% coupon maturing in 2025, and offered $850 million in convertible senior notes due in 2022 with a 2.375% annual interest rate.
+  * **Bonds and Notes:** In 2017, Tesla issued a $1.8 billion bond with a 5.3% coupon maturing in 2025, and offered $850 million in convertible senior notes due in 2022 with a 2.375% annual interest rate.
 
 ## Business Activities
 
@@ -42,7 +42,25 @@
   * **Enabling Future Mobility Solutions:** Develop fully self-driving cars to revolutionize mobility with autonomous ride-sharing and delivery services, enhancing accessibility for individuals unable to drive.
 
 
-* **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
+* **Who is the company's intended customer? Is there any information about the market size of this set of customers?** Tesla's Autopilot technology targets a diverse range of customers:
+
+  * **Tech-Savvy Early Adopters:** Enthusiasts of cutting-edge technology who embrace the latest advancements in automotive innovation.
+  
+  * **Safety-Conscious Drivers:** Consumers prioritizing vehicle safety, drawn to advanced driver-assistance systems for enhanced safety features.
+  
+  * **Environmentally Conscious Consumers:** Individuals focused on sustainability, attracted to Tesla's electric vehicles (EVs) and Autopilot integration in zero-emission vehicles.
+  
+  * **Urban Dwellers and Commuters:** Residents of urban areas and commuters who benefit from Autopilot's convenience and stress reduction during routine driving and traffic.
+
+  * **Alternative Fuel Seekers:** Consumers looking for alternatives to traditional gasoline vehicles.
+
+### Market Size for Tesla's Autopilot Technology
+
+The market for Tesla's Autopilot technology is substantial and growing, driven by the increasing demand for electric vehicles (EVs) and advanced driver-assistance systems. The global electric vehicle market is projected to reach 145 million cars by 2030, fueled by supportive policies and technological advancements. As a leading EV manufacturer, Tesla is poised to capture a significant share of this expanding market. 
+
+Additionally, the ADAS market, valued at USD 20.82 billion in 2020, is expected to grow at a CAGR of 16.0% through 2028. Tesla's Autopilot technology plays a pivotal role in this market's growth trajectory (source: [That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)). 
+
+Moreover, Tesla competes in the luxury vehicle segment alongside brands like BMW, Mercedes-Benz, and Audi. The luxury vehicle market continues to grow, and Tesla's integration of luxury, advanced technology, and sustainability appeals to a broad range of luxury car buyers (source: [That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)).
 
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 
@@ -79,10 +97,10 @@
 * [Tesla Incorporation](https://study-notes-pdfs.s3.us-west-2.amazonaws.com/21669939.pdf)
 * [Tesla - Founders](https://www.tesla.com/blog/judge-strikes-claim-who-can-be-declared-founder-tesla-motors)
 * [Tesla - Autopilot](https://www.tesla.com/support/autopilot)
-* [Tesla Autopilot Timeline](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
 * [Musk Quote](https://www.brainyquote.com/quotes/elon_musk_567214#:~:text=Elon%20Musk%20Quotes&text='%20'Self%2Ddriving'%20sounds,should%20have%20it%20in%20cars)
 * [China's Self Driving Cars](https://pioneersperspective.com/startups/chinas-best-self-driving-car-platforms-tested-and-compared/)
 * [NVIDIA Computing](https://www.autofutures.tv/topics/why-nvidia-computing-is-the--top--choice-for-chinese-automakers-nio--im--xpeng---li-auto/s/c14e0119-b921-4842-a184-32c44ebc6990)
 * [Tesla Growth Plan](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase/)
 * [Inventor of Self-Driving Cars](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/)
 * [AI Cluster](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)
+* [That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
