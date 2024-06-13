@@ -207,6 +207,7 @@ Rigorous testing ensures adherence to global safety standards. Mercedes-Benz aim
   - Developing autonomous driving technology under "Project Titan," aiming to create an autonomous electric vehicle ([Electrek](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase)).
 
 ### Chinese Market Leaders
+![Chinese Cars](https://media.wired.com/photos/65f0c0c691b281b06d7279a3/master/w_2240,c_limit/gear_china_self_driving_car_platforms.jpg)
 
 - **XPeng:**
   - Uses the XPilot system, integrating lidar and NVIDIA DRIVE AGX Xavier for Level 3 autonomous driving ([AutoFutures TV](https://www.autofutures.tv/topics/why-nvidia-computing-is-the--top--choice-for-chinese-automakers-nio--im--xpeng---li-auto/s/c14e0119-b921-4842-a184-32c44ebc6990)) ([Wired](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)).
