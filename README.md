@@ -14,10 +14,12 @@
 
 
 * **How is the company funded? How much funding have they received?**
+  * <u>Early Financing</u>: Founded with initial funding exceeding $30 million from Elon Musk, co-founder of PayPal and SpaceX.
 
 ## Business Activities
 
 * **What specific problem is the company or project trying to solve?**
+
 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
