@@ -10,11 +10,22 @@
 
 * **How did the idea for the company (or project) come about?** This case study will delve into the Artificial Intelligence technology that powers the autopilot feature in many Tesla vehicles. The company began considering the idea in the early 2010s. Elon Musk first discussed the Tesla Autopilot system publicly in 2013. 
 
-> “I like the word 'autopilot' more than I like the word 'self-driving.' 'Self-driving' sounds like it's going to do something you don't want it to do. 'Autopilot' is a good thing to have in planes, and we should have it in cars.” Elon Musk
+> “I like the word 'autopilot' more than I like the word 'self-driving.' 'Self-driving' sounds like it's going to do something you don't want it to do. 'Autopilot' is a good thing to have in planes, and we should have it in cars.” *Elon Musk*
 
 
 * **How is the company funded? How much funding have they received?**
-  * <u>Early Financing</u>: Founded with initial funding exceeding $30 million from Elon Musk, co-founder of PayPal and SpaceX.
+  * Early Financing: Founded with initial funding exceeding $30 million from Elon Musk, co-founder of PayPal and SpaceX.
+  * Initial Public Offering: Tesla went public in June 2010 with an IPO priced at $17 per share, raising approximately $226.1 million.
+
+  * Strategic Investments: Toyota invested $50 million in Tesla, fostering collaboration on electric vehicle development and production systems.
+
+  * Venture Capital: Initial funding was sourced from venture capital firms, including Valor Equity Partners, in 2004.
+
+  * Government Subsidies: Since 2009, Tesla has received $2.8 billion in government subsidies, notably including $1.6 billion from Nevada for tax rebates and grants from 2013 to 2023.
+
+  * Loans: In 2009, Tesla secured a $465 million loan from the US Department of Energy to support Model S sedan development and commercial powertrain technology, repaid by 2013 with $12 million in interest.
+
+  * Bonds and Notes: In 2017, Tesla issued a $1.8 billion bond with a 5.3% coupon maturing in 2025, and offered $850 million in convertible senior notes due in 2022 with a 2.375% annual interest rate.
 
 ## Business Activities
 
