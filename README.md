@@ -48,8 +48,8 @@
 
 * Why are these technologies appropriate for your solution?
 
-### <Sources>
+### Sources<details>
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
-</Sources>
+</details>
