@@ -48,8 +48,8 @@
 
 * Why are these technologies appropriate for your solution?
 
-### Sources<details>
-<summary>How do I dropdown?</summary>
+<details open>
+<summary>Want to ruin the surprise?</summary>
 <br>
-This is how you dropdown.
+Well, you asked for it!
 </details>
