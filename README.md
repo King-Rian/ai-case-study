@@ -99,6 +99,7 @@ Tesla utilizes a range of advanced technologies to enable its Autopilot and Full
 
 ![Tesla Sensors/Cameras](https://www.eetasia.com/wp-content/uploads/sites/2/2020/06/ILLUS1_TESLA_MODEL3_Sensors_Computing_SYSTEMPLUSCONSULTING_June2020.jpg?w=640&h=406&crop=1)
 
+
 ### Computing Hardware
 - **Full Self-Driving Computer (FSD Computer):** Also known as Hardware 3.0, this in-house designed computer processes data from cameras and sensors with custom-built AI chips capable of performing 144 trillion operations per second​ ([Tesla](https://www.tesla.com/support/autopilot))​.
 
