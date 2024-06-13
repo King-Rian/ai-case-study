@@ -86,8 +86,40 @@ Tesla's unique advantages in the self-driving car market stem from their integra
 
 In summary, Tesla's unfair advantage in the self-driving car market is driven by its vertically integrated hardware and software approach, extensive real-world data collection capabilities, the ability to provide over-the-air updates, a holistic vision-based AI training method, and a strong brand reputation. These factors collectively allow Tesla to offer a more advanced, rapidly evolving autonomous driving solution that competitors struggle to match.
 
+## Technologies Tesla is Using and Their Implementation
 
-**Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
+Tesla utilizes a range of advanced technologies to enable its Autopilot and Full Self-Driving (FSD) systems. Here’s a detailed look at the core technologies and their implementation:
+
+### Sensors and Hardware
+- **Cameras:** Tesla vehicles are equipped with eight external cameras providing 360-degree visibility around the car at up to 250 meters of range, crucial for object detection, lane keeping, and environmental mapping​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​​ ([Tesla](https://www.tesla.com/support/autopilot))​.
+- **Ultrasonic Sensors:** Twelve ultrasonic sensors detect nearby objects, assist with parking, and provide additional data for navigating tight spaces​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
+- **Radar:** A forward-facing radar detects distant objects through various weather conditions, complementing the camera system with depth perception and object velocity data​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
+- **Tesla Vision:** Tesla has transitioned to a camera-only approach, known as Tesla Vision, for its Autopilot and FSD systems, phasing out radar to rely entirely on vision-based data processing​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​.
+
+### Computing Hardware
+- **Full Self-Driving Computer (FSD Computer):** Also known as Hardware 3.0, this in-house designed computer processes data from cameras and sensors with custom-built AI chips capable of performing 144 trillion operations per second​ ([Tesla](https://www.tesla.com/support/autopilot))​.
+
+### Artificial Intelligence and Machine Learning
+- **Neural Networks:** Tesla employs deep learning neural networks to process the data collected by sensors and cameras. These networks are trained on massive datasets to improve object recognition, path planning, and decision-making capabilities​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
+- **Dojo Supercomputer:** Tesla is developing Dojo, a supercomputer designed to train AI models more efficiently by processing extensive driving data collected from Tesla’s fleet​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
+
+### Software and Algorithms
+- **Autopilot and Full Self-Driving Software:** Tesla’s software stack includes modules for perception, prediction, planning, and control. Regular over-the-air updates enhance features and introduce new capabilities​ ([Tesla](https://www.tesla.com/support/autopilot))​.
+- **Real-Time Updates and Fleet Learning:** Tesla uses data from its global fleet to continuously improve its AI models. This feedback loop refines algorithms based on real-world scenarios, enhancing the safety and reliability of autonomous features​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​.
+
+### Data Infrastructure
+- **Tesla Data Centers:** Tesla operates data centers to store and process the enormous volumes of data collected from its vehicles, used for training AI models and improving autonomous system performance​ ([Tesla](https://www.tesla.com/support/autopilot))​.
+- **Over-the-Air (OTA) Updates:** Tesla’s vehicles receive regular software updates over the air, which enhance performance, add new features, and improve autonomous capabilities without requiring a service center visit​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​.
+
+### Implementation
+Tesla implements these technologies through a combination of hardware integration, sophisticated software development, and continuous data-driven improvement:
+
+- **Hardware Integration:** Tesla’s vehicles are equipped with a robust array of sensors and powerful onboard computers that process data in real-time, ensuring comprehensive environmental awareness​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
+- **Software Development:** Tesla’s engineering teams develop and refine the Autopilot and FSD software, leveraging advanced AI and machine learning techniques. Regular OTA updates keep the vehicles up-to-date with the latest advancements​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​​ ([Tesla](https://www.tesla.com/support/autopilot))​.
+- **Data-Driven Improvements:** The vast amount of driving data collected from Tesla’s global fleet is used to train and enhance the AI models. This data-driven approach allows Tesla to make continuous improvements, ensuring that its autonomous systems are always learning and evolving​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
+
+### Conclusion
+Tesla’s comprehensive approach to integrating cutting-edge sensors, powerful computing hardware, advanced AI, and continuous software updates has positioned it as a leader in autonomous driving technology. These technologies and their implementation enable Tesla to provide a sophisticated and ever-improving autonomous driving experience.
 
 ## Landscape
 
