@@ -1,8 +1,8 @@
-# ai-case-study
+# Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
 The project is about Tesla.
 This is the README File.
 
-![Tesla](https://images.app.goo.gl/qYF2SHts5E8oMJMU9)
+
 # Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
 
 ## Overview and Origin
