@@ -49,7 +49,7 @@
 * Why are these technologies appropriate for your solution?
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Sources</summary>
 <br>
-Well, you asked for it!
+* Source 1
 </details>
