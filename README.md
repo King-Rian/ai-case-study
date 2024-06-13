@@ -1,4 +1,4 @@
-# Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
+# <h1 style="color: red;">Revolutionizing Autonomy: A Case Study of Tesla Inc. in Self-Driving AI
 
 ## Overview and Origin
 
