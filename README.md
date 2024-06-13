@@ -92,7 +92,7 @@ In summary, Tesla's unfair advantage in the self-driving car market is driven by
 Tesla utilizes a range of advanced technologies to enable its Autopilot and Full Self-Driving (FSD) systems. Here’s a detailed look at the core technologies and their implementation:
 
 ### Sensors and Hardware
-![Tesla Sensors](https://www.eetasia.com/wp-content/uploads/sites/2/2020/06/ILLUS1_TESLA_MODEL3_Sensors_Computing_SYSTEMPLUSCONSULTING_June2020.jpg?w=640&h=406&crop=1)
+![Tesla Sensors](https://miro.medium.com/v2/resize:fit:4460/format:webp/1*vVTVcKTNyAIVgum_2HH10g.png)
 
 - **Cameras:** Tesla vehicles are equipped with eight external cameras providing 360-degree visibility around the car at up to 250 meters of range, crucial for object detection, lane keeping, and environmental mapping​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​​ ([Tesla](https://www.tesla.com/support/autopilot))​.
 - **Ultrasonic Sensors:** Twelve ultrasonic sensors detect nearby objects, assist with parking, and provide additional data for navigating tight spaces​ ([POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/))​.
