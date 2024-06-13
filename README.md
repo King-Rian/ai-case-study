@@ -31,15 +31,15 @@
 
 * **What specific problem is the company or project trying to solve?** Tesla has set several goals for itself in the tech/automotive field, however, the focus of this case study is artificial intelligence. Tesla's Autopilot technology aims to tackle critical challenges in the automotive and transportation sectors:
 
-  **Enhancing Road Safety:** Reduce accidents caused by human error through advanced driver-assistance features like automatic emergency braking, lane-keeping, and adaptive cruise control.
+  * **Enhancing Road Safety:** Reduce accidents caused by human error through advanced driver-assistance features like automatic emergency braking, lane-keeping, and adaptive cruise control.
   
-  **Reducing Driver Fatigue and Stress:** Assist drivers during long-distance trips and heavy traffic by automating routine driving tasks, allowing them to stay more alert and focused.
+  * **Reducing Driver Fatigue and Stress:** Assist drivers during long-distance trips and heavy traffic by automating routine driving tasks, allowing them to stay more alert and focused.
   
-  **Improving Traffic Efficiency:** Optimize driving patterns and enhance traffic flow in urban areas by enabling vehicles to autonomously maintain optimal speeds and safe distances.
+  * **Improving Traffic Efficiency:** Optimize driving patterns and enhance traffic flow in urban areas by enabling vehicles to autonomously maintain optimal speeds and safe distances.
   
-  **Supporting Sustainable Transportation:** Integrate Autopilot with electric vehicle technology to reduce emissions and energy consumption, promoting environmental sustainability.
+  * **Supporting Sustainable Transportation:** Integrate Autopilot with electric vehicle technology to reduce emissions and energy consumption, promoting environmental sustainability.
   
-  **Enabling Future Mobility Solutions:** Develop fully self-driving cars to revolutionize mobility with autonomous ride-sharing and delivery services, enhancing accessibility for individuals unable to drive.
+  * **Enabling Future Mobility Solutions:** Develop fully self-driving cars to revolutionize mobility with autonomous ride-sharing and delivery services, enhancing accessibility for individuals unable to drive.
 
 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
