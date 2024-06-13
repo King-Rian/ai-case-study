@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company: Tesla, Inc., previously Tesla Motors, Inc.
+* **Name of company:** Tesla, Inc., previously Tesla Motors, Inc.
 
 * When was the company incorporated?
 
