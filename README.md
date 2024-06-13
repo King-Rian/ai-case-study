@@ -176,6 +176,7 @@ Overall, Tesla's proactive approach and continuous innovation in these key areas
 Mercedes-Benz is at the forefront of autonomous driving technology with its Mercedes-Benz Intelligent Drive initiative. This includes:
 
 #### Key Features
+![Mercedes](https://s3.amazonaws.com/media.emercedesbenz.com/magazine/wp-content/uploads/intelligent-drive-1018.png)
 
 - **Autonomous Driving Capabilities:** Integrates ADAS for semi-autonomous functions like adaptive cruise control, lane-keeping assistance, and automatic braking.
 - **Automated Parking:** Utilizes sensors and cameras for autonomous parking, easing tight-space maneuvers.
