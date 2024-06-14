@@ -127,7 +127,7 @@ Tesla implements these technologies through a combination of hardware integratio
 
 **What field is the company in?** 
 
-![Cars](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fe7QLcF-mK2x3jiEcg3mw-x6_81MckiO58Lmd7-R9jT4.jpg%3Fauto%3Dwebp%26s%3Dca461081dee1547034961113c39a3793a0d914f1)
+![Cars](https://helios-i.mashable.com/imagery/articles/00OAxbVw7IHsfxGGa1wCFNw/hero-image.fill.size_1248x702.v1623954665.jpg)
 
 Tesla operates at the forefront of automotive manufacturing, artificial intelligence, autonomous driving, and renewable energy. The company harnesses its technological expertise and innovative spirit to develop state-of-the-art products and solutions across these sectors.
 
