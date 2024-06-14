@@ -363,3 +363,38 @@ These technologies are highly appropriate for Tesla’s proposed autonomous deli
 * [Wired](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)
 * [Tesla - Stock](https://www.marketwatch.com/investing/stock/tsla)
 * [Government Regulations](https://www.reuters.com/business/autos-transportation/tesla-lowers-range-estimates-us-regulators-tighten-vehicle-test-rules-2024-01-09/)
+
+
+<details><summary><h2>Sources</h2></summary>
+
+### 1. [Tesla - Elon Musk](https://www.tesla.com/elon-musk)
+
+### 2. [Tesla Incorporation](https://study-notes-pdfs.s3.us-west-2.amazonaws.com/21669939.pdf)
+
+### 3. [Tesla - Founders](https://www.tesla.com/blog/judge-strikes-claim-who-can-be-declared-founder-tesla-motors)
+
+### 4. [Tesla](https://www.tesla.com/support/autopilot)
+
+### 5. [Musk Quote](https://www.brainyquote.com/quotes/elon_musk_567214#:~:text=Elon%20Musk%20Quotes&text='%20'Self%2Ddriving'%20sounds,should%20have%20it%20in%20cars)
+
+### 6. [Pioneer's Perspective](https://pioneersperspective.com/startups/chinas-best-self-driving-car-platforms-tested-and-compared/)
+
+### 7. [AutoFutures TV](https://www.autofutures.tv/topics/why-nvidia-computing-is-the--top--choice-for-chinese-automakers-nio--im--xpeng---li-auto/s/c14e0119-b921-4842-a184-32c44ebc6990)
+
+### 8. [Tesla Growth Plan](https://electrek.co/2024/01/29/tesla-tsla-plans-spend-10-billion-year-next-growth-phase/)
+
+### 9. [POLITICO](https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/)
+
+### 10. [AI Cluster](https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today)
+
+### 11. [That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/)
+
+### 12. [Top-Selling Car](https://www.businessinsider.com/tesla-worlds-top-selling-car-first-time-q1-2023-5)
+
+### 13. [Tesla Vision](https://electrek.co/2021/06/29/tesla-update-vehicle-vision-system-restore-autopilot-features)
+
+### 14. [Wired](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)
+
+### 15. [Tesla - Stock](https://www.marketwatch.com/investing/stock/tsla)
+
+### 16. [Government Regulations](https://www.reuters.com/business/autos-transportation/tesla-lowers-range-estimates-us-regulators-tighten-vehicle-test-rules-2024-01-09/)
