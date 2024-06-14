@@ -158,7 +158,11 @@ The autonomous driving and EV sectors have experienced rapid advancements and si
 
 ### Electric Vehicle (EV) Innovations
 - **Battery Technology:** Significant advancements in battery technology, including the development of higher energy density batteries and faster charging solutions, have extended the range and reduced the charging times for EVs. Solid-state batteries are a promising development in this area​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​.
-- **Charging Infrastructure:** Expansion of charging infrastructure has been a critical focus, with more fast-charging stations being deployed globally to support the growing number of EVs​ ([Tesla](https://www.tesla.com/support/autopilot))​.
+- **Charging Infrastructure:** 
+
+![Charging](https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/06/Tesla-Supercharger-hero-1.jpeg?w=1500&quality=82&strip=all&ssl=1)
+
+Expansion of charging infrastructure has been a critical focus, with more fast-charging stations being deployed globally to support the growing number of EVs​ ([Tesla](https://www.tesla.com/support/autopilot))​.
 
 ### Software and Over-the-Air Updates
 - **OTA Updates:** Tesla pioneered the use of over-the-air (OTA) updates to continuously improve vehicle performance and add new features without requiring a visit to a service center. This has become a standard practice in the industry​ ([That Tesla Channel](https://www.thatteslachannel.com/a-timeline-of-tesla-autopilot-from-inception-to-now/))​​ ([Tesla](https://www.tesla.com/support/autopilot))​.
