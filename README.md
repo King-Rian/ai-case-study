@@ -335,6 +335,8 @@ Leveraging Tesla's Autopilot and Full Self-Driving (FSD) technology, these deliv
 
 ### Electric Powertrains
 
+![Roadster](https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/11/Tesla-Roadster-103.jpg?crop=0.792xw:0.733xh;0.136xw,0.225xh&resize=1200:*)
+
 Tesla's industry-leading electric powertrains would ensure that the delivery vehicles are energy-efficient and environmentally friendly. This technology would provide the necessary range and performance for both long-haul and urban delivery, aligning with the growing demand for sustainable transportation solutions ([Tesla](link), [POLITICO](link)).
 
 ### AI and Machine Learning
