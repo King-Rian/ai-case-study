@@ -392,3 +392,4 @@ These technologies are highly appropriate for Tesla’s proposed autonomous deli
 * [Tesla Vision](https://electrek.co/2021/06/29/tesla-update-vehicle-vision-system-restore-autopilot-features)
 * [Wired](https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/)
 * [Tesla - Stock](https://www.marketwatch.com/investing/stock/tsla)
+* [Government Regulations](https://www.reuters.com/business/autos-transportation/tesla-lowers-range-estimates-us-regulators-tighten-vehicle-test-rules-2024-01-09/)
