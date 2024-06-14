@@ -270,6 +270,7 @@ These companies are part of a global effort to advance autonomous driving and el
 - **Software Updates and Improvements:** Frequent over-the-air updates enhance capabilities ([Tesla](https://www.tesla.com)).
 
 **Market Penetration and Adoption:**
+![Factory](https://idsb.tmgrup.com.tr/ly/uploads/images/2022/03/23/192856.jpg)
 - **Market Share:** Tesla holds a dominant position in the global EV market.
 - **Sales and Deliveries:** Over 1.3 million vehicles delivered in 2023 ([Tesla](https://www.tesla.com)).
 
